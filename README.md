@@ -1,6 +1,6 @@
 ### Hi! 👋
 I am Rafal.<br>
-I have a lot of hobbys, but only one passion. Programming for me is the best combination of passion and work. Performance and commitment are amazing results coming form it. I am about to finish my studies and I would like to have the opportunity to develop myself in this direction. 
+I have a lot of hobbys, but only one passion. Programming for me is the best combination of passion and work.
 
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
@@ -24,16 +24,16 @@ let rafal = {
         {
             school: "School of Management and Banking in Cracow",
             specialization: "object-oriented-programming",
-            title: "🎓Bachelor of science"
+            title: "🎓Bachelor of Engineering"
         }
     ],
-    favourites_technologies: [PHP, Symfony, Javascript, ReactJS],
-    other_technologies: [git, SQL, HTML, JAVA, WordPress, ThreeJS],
+    favourites_technologies: [PHP, TYPO3, Shopware, Symfony, Javascript],
+    other_technologies: [git, ReactJS, SQL, HTML, JAVA, WordPress, ThreeJS],
     languages: [🇵🇱 Polish, 🇬🇧 English, 🇩🇪 German],
     hobbies: ["automotive", "cycling"]
 }
 ```
 
 ### Find me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jania-rafal/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janiarafal/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/80Quattro)
